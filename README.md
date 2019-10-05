@@ -1,5 +1,5 @@
-# Flutter UI Sign Up
+# Flutter UI #1 - Sign Up
 
-![Sign In](https://i.imgur.com/pYsEqmR.jpg)
-
-![Sign Up](https://i.imgur.com/hxerepv.jpg)
+Sign Up             |  Sign In
+:-------------------------:|:-------------------------:
+![Sign Up](https://i.imgur.com/PULDLtO.jpg) | ![Sign In](https://i.imgur.com/J8WGtuW.jpg)
